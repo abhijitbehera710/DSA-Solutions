@@ -27,6 +27,6 @@ To improve my problem-solving skills by solving DSA and Competitive Programming 
 
 | Platform    | Problems Solved |
 |--------------|----------------:|
-| Codeforces  | 3 |
+| Codeforces  | 4 |
 | LeetCode    | 1 |
-| **Total**   | **4** |
+| **Total**   | **5** |
